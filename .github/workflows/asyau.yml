@@ -1,4 +1,4 @@
-name: devoapp
+name: asyauoapp
 on: 
   push:
     branches: [ "main" ]
